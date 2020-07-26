@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# SAMUEL OWUSU
+Welcome to my profile. 
+This is the adventures of a lifelong learner.
+
+Reach out to me 🤗
+Twitter, LinkedIn, 
+
+If you need me to work on a project.
+Send email: 
+
 <!--
 **owususamuel/owususamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
