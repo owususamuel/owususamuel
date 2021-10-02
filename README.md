@@ -5,7 +5,7 @@ Welcome to my profile.
 This is the adventures of a lifelong learner.
 
 Reach out to me 🤗
-Twitter, LinkedIn, 
+[Twitter](https://twitter.com/owusudev), [LinkedIn](https://linkedin.com/in/owususamuel), 
 
 If you need me to work on a project.
 Send email: 
